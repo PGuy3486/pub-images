@@ -1,2 +1,2 @@
-FROM quay.io/prometheus-operator/prometheus-config-reloader:v0.66.0
+FROM quay.io/prometheus/prometheus:v2.45.0
 MAINTAINER banh
