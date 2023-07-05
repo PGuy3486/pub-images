@@ -1,2 +1,2 @@
-FROM quay.io/prometheus/prometheus:v2.45.0
+FROM quay.io/prometheus/alertmanager:v0.25.0
 MAINTAINER banh
