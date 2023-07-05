@@ -1,2 +1,2 @@
-FROM registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.8.0
+FROM quay.io/prometheus-operator/prometheus-config-reloader:v0.66.0
 MAINTAINER banh
