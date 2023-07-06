@@ -1,2 +1,2 @@
-FROM quay.io/prometheus/alertmanager:v0.25.0
+FROM registry.k8s.io/sig-storage/csi-attacher:v4.1.0
 MAINTAINER banh
