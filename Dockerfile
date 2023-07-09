@@ -1,2 +1,2 @@
-FROM registry.k8s.io/sig-storage/csi-attacher:v4.1.0
+FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
 MAINTAINER banh
