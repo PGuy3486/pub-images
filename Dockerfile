@@ -1,2 +1,2 @@
-FROM gcr.io/k8s-minikube/kicbase:v0.0.40@sha256:8cadf23777709e43eca447c47a45f5a4635615129267ce025193040ec92a1631
+FROM registry.k8s.io/sig-storage/csi-resizer:v1.7.0
 MAINTAINER banh
