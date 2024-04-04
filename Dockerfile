@@ -1,2 +1,2 @@
-FROM registry.k8s.io/sig-storage/csi-resizer:v1.7.0
+FROM registry.k8s.io/sig-storage/csi-snapshotter:v6.2.1
 MAINTAINER banh
